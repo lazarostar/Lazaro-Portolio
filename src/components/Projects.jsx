@@ -1,6 +1,5 @@
 import { useState, React } from "react";
 import { Zoom, Fade } from "react-awesome-reveal";
-import dsc from "../media/DSC.png";
 import fla from "../media/FLA.png";
 import web3 from "../media/WEB3.png";
 import efe from "../media/EFE.png";
@@ -28,7 +27,7 @@ const Experience = ({ darkMode }) => {
         <Container>
           <br></br>
           <h2 className="lead" align="center">
-            <b>- Experience -</b>
+            <b>- Projects -</b>
           </h2>
           <br></br>
           <Zoom>
@@ -87,7 +86,7 @@ const Experience = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/masculus/weather_react_app"
+                      href="https://github.com/KodaKDominus/weather_react_app"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -155,7 +154,7 @@ const Experience = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/masculus/com_auction_project"
+                      href="https://github.com/KodaKDominus/com_auction_project"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -294,7 +293,7 @@ const Experience = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/masculus/euphorus_front"
+                      href="https://github.com/KodaKDominus/euphorus_front"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -358,7 +357,7 @@ const Experience = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/masculus/euphorus_back"
+                      href="https://github.com/KodaKDominus/euphorus_back"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -422,7 +421,7 @@ const Experience = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/masculus/dlop_ai_landing"
+                      href="https://github.com/KodaKDominus/dlop_ai_landing"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -494,7 +493,7 @@ const Experience = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/masculus/web3_crypto"
+                      href="https://github.com/KodaKDominus/web3_crypto"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
