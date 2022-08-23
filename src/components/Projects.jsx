@@ -510,12 +510,11 @@ const Projects = ({ darkMode }) => {
                           <Card.Img variant="top" src={job} />
                           <Card.Body>
                             <Card.Title align="center">
-                              Apartments Site.
+                              Job platform
                             </Card.Title>
                             <Card.Text>
                               <p align="center">
-                                This project advertise apartments by using
-                                Google Ads API service
+                                This project is platform which advertise jobs.
                               </p>
                             </Card.Text>
                           </Card.Body>
