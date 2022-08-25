@@ -177,7 +177,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://t.me/KDomnius"
+                        href="https://t.me/kodakatsuro"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -253,7 +253,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://www.linkedin.com/in/KodaKDominus/"
+                        href="https://www.linkedin.com/in/kodakatsuro/"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
