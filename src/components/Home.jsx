@@ -41,6 +41,9 @@ const Home = ({ darkMode }) => {
             <h5 className="lead-sub" align="center">
               I have good sensitive in Web Design.
             </h5>
+            <h5 align="center">
+              私の見方では、虹が欲しければ、雨を我慢しなければなりません。
+             </h5>
           </Col>
         </Row>
         <Row>
