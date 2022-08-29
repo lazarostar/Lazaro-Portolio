@@ -12,6 +12,7 @@ import {
   faSkype,
   faTelegram,
   faGoogle,
+  faCodepen,
 } from "@fortawesome/free-brands-svg-icons";
 import { faFile } from "@fortawesome/free-solid-svg-icons";
 import Card from "react-bootstrap/Card";
@@ -195,7 +196,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="kodakatsuro@gmail.com"
+                        href="https://codepen.io/KodaKDominus"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -206,7 +207,7 @@ const About = ({ darkMode }) => {
                           <FontAwesomeIcon
                             className="skill"
                             size="2x"
-                            icon={faSlack}
+                            icon={faCodepen}
                           />
                         </Button>
                       </a>
