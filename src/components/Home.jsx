@@ -10,6 +10,7 @@ import Container from "react-bootstrap/esm/Container";
 const Home = ({ darkMode }) => {
   return (
     <div>
+      <div id="padding" style={{ padding: "35px" }}></div>
       <AttentionSeeker shakeX>
         <Row>
           <Col lg={2} xs={12}></Col>
@@ -43,7 +44,7 @@ const Home = ({ darkMode }) => {
             </h5>
             <h5 align="center">
               私の見方では、虹が欲しければ、雨を我慢しなければなりません。
-             </h5>
+            </h5>
           </Col>
         </Row>
         <Row>

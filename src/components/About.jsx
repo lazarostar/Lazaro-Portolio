@@ -12,8 +12,8 @@ import {
   faSkype,
   faTelegram,
   faGoogle,
-  faCodepen,
   faDiscord,
+  faCodepen,
 } from "@fortawesome/free-brands-svg-icons";
 import { faFile } from "@fortawesome/free-solid-svg-icons";
 import Card from "react-bootstrap/Card";
@@ -84,6 +84,7 @@ const About = ({ darkMode }) => {
 
   return (
     <div>
+      <div id="padding" style={{ padding: "35px" }}></div>
       <br></br>
       <br></br>
       <Fade>
@@ -105,19 +106,14 @@ const About = ({ darkMode }) => {
                       and can work together for a long time. I have also working
                       experience with <strong>Model View Controller</strong>{" "}
                       (MVC) and have been involved in maintaining versions of
-                      source code using <strong>GIT</strong>. I have also
-                      designed and developed web user controls, pages,
-                      validation controls, CSS files using technologies like
-                      AJAX Toolkit, jQuery, JavaScript, Bootstrap UI controls,
-                      XML, HTML, and DHTML. Many things excite me in this
-                      expanse of technology. I am up for challenges that take me
-                      by surprise and make my head hurt. I'm comfortable working
-                      on any domain if I find the project is worth it. You can
-                      imagine me focused on the laptop screen and typing or
-                      taking down notes. Apart from technical things, I enjoy
-                      good books and verses, and I have a good eye for{" "}
-                      <strong>Art</strong>. Now that you know me a bit, please
-                      feel free to drop a text because{" "}
+                      source code using <strong>GIT</strong>. I am up for
+                      challenges that take me by surprise and make my head hurt.
+                      I'm comfortable working on any domain if I find the
+                      project is worth it. You can imagine me focused on the
+                      laptop screen and typing or taking down notes. Apart from
+                      technical things, I enjoy good books and verses, and I
+                      have a good eye for <strong>Art</strong>. Now that you
+                      know me a bit, please feel free to drop a text because{" "}
                       <strong>Communication is a two-way street.</strong>
                     </p>
                   </Card.Text>
@@ -125,6 +121,7 @@ const About = ({ darkMode }) => {
                     <Button
                       variant={darkMode ? "outline-light" : "outline-dark"}
                       className="a"
+                      style={{ marginRight: "10px" }}
                     >
                       <FontAwesomeIcon
                         className="dark"
@@ -161,7 +158,7 @@ const About = ({ darkMode }) => {
                     <Col lg={1} xs={8}></Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://github.com/KodaKDominus"
+                        href="https://github.com/masculus"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -179,7 +176,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://t.me/kodakatsuro"
+                        href="https://t.me/masculus1114"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -197,7 +194,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://codepen.io/KodaKDominus"
+                        href="https://codepen.io/masculus"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -219,7 +216,7 @@ const About = ({ darkMode }) => {
                     <Col lg={1} xs={8}></Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="kodakatsuro@gmail.com"
+                        href="magnus.masculus971114@gmail.com"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -237,7 +234,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://join.skype.com/invite/wDpwy4t21eVg"
+                        href="https://join.skype.com/invite/ua262wXAd9xg"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -255,7 +252,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://discord.gg/43FU8bau"
+                        href="masculus#1716"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
