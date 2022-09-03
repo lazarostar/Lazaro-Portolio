@@ -1,5 +1,6 @@
 :root {
   --bg-color: #e98074;
+  --nav-bg-color: #e98074;
   --text-color: #000000;
   --navtext-color: #ffffff;
   --page-color: #ffffff;
@@ -14,6 +15,7 @@
 
 [data-theme="dark"] {
   --bg-color: #1a1a1d;
+  --nav-bg-color: #c3073f;
   --text-color: #ffffff;
   --navtext-color: #ffffff;
   --page-color: #1a1a1f;
@@ -70,7 +72,7 @@
 }
 
 .navbar {
-  background-color: var(--bg-color);
+  background-color: var(--nav-bg-color);
   color: var(--navtext-color);
   padding: 15px;
 }
