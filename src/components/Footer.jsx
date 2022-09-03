@@ -8,7 +8,7 @@ const Footer = () => {
       <p className="footer-text">
         Made with ♥️ by KodaKDominus<br></br>
         <br></br>
-        <small>All rights reserved © 2021 Koda Katsuro</small>
+        <small>All rights reserved © 2022 Koda Katsuro</small>
         <br></br>
       </p>
     </div>
