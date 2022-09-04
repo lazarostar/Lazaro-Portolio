@@ -25,7 +25,7 @@ const SkillsDetail = ({ darkMode }) => {
                       <span className="icon-tools"></span>
                       <h5>Fast Development</h5>
                       <p>
-                        I will develop the product in high quality, timly maner
+                        I will develop the product in high quality, timly maner<br />
                         高品質でタイムリーに製品を開発します
                       </p>
                     </div>
@@ -35,7 +35,8 @@ const SkillsDetail = ({ darkMode }) => {
                     <div className="item">
                       <span className="icon-mobile"></span>
                       <h5>Responsive Design</h5>
-                      <p>It will be responsive design for every devices</p>
+                      <p>It will be responsive design for every devices<br />
+                        あらゆるデバイスに対応するレスポンシブデザインになります</p>
                     </div>
                   </div>
 
@@ -44,7 +45,7 @@ const SkillsDetail = ({ darkMode }) => {
                       <span className="icon-puzzle"></span>
                       <h5>API Integration</h5>
                       <p>
-                        I will integrate with API from the backend in real time
+                        I will integrate with API from the backend in real time<br />
                         リアルタイムでバックエンドから API と統合します
                       </p>
                     </div>
@@ -55,7 +56,7 @@ const SkillsDetail = ({ darkMode }) => {
                       <h5>Clean Code</h5>
                       <p>
                         My code will be clean, maintainable, scalable and
-                        structurable
+                        structurable<br />
                         私のコードは、きれいで、保守可能で、スケーラブルで、構造化可能です
                       </p>
                     </div>
@@ -65,7 +66,8 @@ const SkillsDetail = ({ darkMode }) => {
                     <div className="item">
                       <span className="icon-camera"></span>
                       <h5>Pixel Perfect</h5>
-                      <p>I am really strong at pixel perfect with hawk eyes 鷹の目でピクセルパーフェクトが本当に強い</p>
+                      <p>I am really strong at pixel perfect with hawk eyes<br /> 
+                        鷹の目でピクセルパーフェクトが本当に強い</p>
                     </div>
                   </div>
 
@@ -75,7 +77,7 @@ const SkillsDetail = ({ darkMode }) => {
                       <h5>Unlimited Support</h5>
                       <p>
                         I will support to scale && maintain the websites in
-                        further with my pleasure
+                        further with my pleasure<br />
                         喜んでウェブサイトの拡張と維持をサポートします
                       </p>
                     </div>
