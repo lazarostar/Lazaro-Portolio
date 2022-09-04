@@ -76,8 +76,7 @@ const SkillsDetail = ({ darkMode }) => {
                       <span className="icon-strategy"></span>
                       <h5>Unlimited Support</h5>
                       <p>
-                        I will support to scale && maintain the websites in
-                        further with my pleasure<br />
+                        I will support to scale && maintain the websites in further with my pleasure<br />
                         喜んでウェブサイトの拡張と維持をサポートします
                       </p>
                     </div>
