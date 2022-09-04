@@ -5,8 +5,8 @@ import Container from "react-bootstrap/esm/Container";
 const SkillsDetail = ({ darkMode }) => {
   return (
     <div data-theme={darkMode ? "dark" : "light"}>
-      <br />
       <div id="padding" style={{ padding: "35px" }}></div>
+      <br />
       <Fade>
         <Container>
           <br></br>
