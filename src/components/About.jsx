@@ -158,7 +158,7 @@ const About = ({ darkMode }) => {
                     <Col lg={1} xs={8}></Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://github.com/masculus"
+                        href="https://github.com/KodaKDominus"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -176,7 +176,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://t.me/masculus1114"
+                        href="https://t.me/kodakatsuro"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -194,7 +194,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://codepen.io/masculus"
+                        href="https://codepen.io/KodaKDominus"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -216,7 +216,7 @@ const About = ({ darkMode }) => {
                     <Col lg={1} xs={8}></Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="magnus.masculus971114@gmail.com"
+                        href="kodakatsuro@gmail.com"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -234,7 +234,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://join.skype.com/invite/ua262wXAd9xg"
+                        href="https://join.skype.com/invite/wDpwy4t21eVg"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
