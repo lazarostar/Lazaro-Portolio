@@ -264,6 +264,7 @@ strong,
 
 .services .services-items {
   overflow: hidden;
+  color: var(--text-color);
 }
 
 .services .services-items:first-child {
