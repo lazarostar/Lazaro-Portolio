@@ -34,13 +34,13 @@ const SkillsDetail = ({ darkMode }) => {
                   </div>
                   <div className="progress">
                     <span className="skill-detail">
-                      Python/Django/Flask <i className="val">100%</i>
+                      Python/Django/Flask <i className="val">90%</i>
                     </span>
                     <div className="progress-bar-wrap">
                       <div
                         className="progress-bar"
                         role="progressbar"
-                        aria-valuenow="95"
+                        aria-valuenow="90"
                         aria-valuemin="0"
                         aria-valuemax="100"
                         style={{ width: "100%" }}
@@ -158,7 +158,7 @@ const SkillsDetail = ({ darkMode }) => {
                   </div>
                   <div className="progress">
                     <span className="skill-detail">
-                      PHP <i className="val">100%</i>
+                      PHP/Laravel <i className="val">100%</i>
                     </span>
                     <div className="progress-bar-wrap">
                       <div
@@ -183,38 +183,6 @@ const SkillsDetail = ({ darkMode }) => {
                         aria-valuemin="0"
                         aria-valuemax="100"
                         style={{ width: "83%" }}
-                      ></div>
-                    </div>
-                  </div>
-
-                  <div className="progress">
-                    <span className="skill-detail">
-                      Laravel <i className="val">95%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="95"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "95%" }}
-                      ></div>
-                    </div>
-                  </div>
-
-                  <div className="progress">
-                    <span className="skill-detail">
-                      Codeigniter <i className="val">95%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="95"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "95%" }}
                       ></div>
                     </div>
                   </div>
