@@ -94,7 +94,7 @@ const SkillsDetail = ({ darkMode }) => {
                   </div>
                   <div className="progress">
                     <span className="skill-detail">
-                      React Native <i className="val">95%</i>
+                      Python/Django/Flask <i className="val">95%</i>
                     </span>
                     <div className="progress-bar-wrap">
                       <div
@@ -103,7 +103,7 @@ const SkillsDetail = ({ darkMode }) => {
                         aria-valuenow="95"
                         aria-valuemin="0"
                         aria-valuemax="100"
-                        style={{ width: "95%" }}
+                        style={{ width: "100%" }}
                       ></div>
                     </div>
                   </div>
@@ -171,21 +171,6 @@ const SkillsDetail = ({ darkMode }) => {
                       ></div>
                     </div>
                   </div>
-                  <div className="progress">
-                    <span className="skill-detail">
-                      Django & Flask <i className="val">92%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="92"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "92%" }}
-                      ></div>
-                    </div>
-                  </div>
 
                   <div className="progress">
                     <span className="skill-detail">
@@ -199,22 +184,6 @@ const SkillsDetail = ({ darkMode }) => {
                         aria-valuemin="0"
                         aria-valuemax="100"
                         style={{ width: "83%" }}
-                      ></div>
-                    </div>
-                  </div>
-
-                  <div className="progress">
-                    <span className="skill-detail">
-                      GraphQL & Hasura <i className="val">100%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="100"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "100%" }}
                       ></div>
                     </div>
                   </div>
@@ -284,21 +253,7 @@ const SkillsDetail = ({ darkMode }) => {
                 </div>
 
                 <div className="col-lg-3">
-                  <div className="progress">
-                    <span className="skill-detail">
-                      SkatNet / Cairo <i className="val">95%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="95"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "95%" }}
-                      ></div>
-                    </div>
-                  </div>
+  
 
                   <div className="progress">
                     <span className="skill-detail">
@@ -330,36 +285,7 @@ const SkillsDetail = ({ darkMode }) => {
                       ></div>
                     </div>
                   </div>
-                  <div className="progress">
-                    <span className="skill-detail">
-                      Defi & Dapp <i className="val">88%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="88"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "88%" }}
-                      ></div>
-                    </div>
-                  </div>
-                  <div className="progress">
-                    <span className="skill-detail">
-                      Uniswap <i className="val">90%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="90"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "90%" }}
-                      ></div>
-                    </div>
-                  </div>
+           
                   <div className="progress">
                     <span className="skill-detail">
                       Solana <i className="val">96%</i>
@@ -390,36 +316,7 @@ const SkillsDetail = ({ darkMode }) => {
                       ></div>
                     </div>
                   </div>
-                  <div className="progress">
-                    <span className="skill-detail">
-                      SRemix & HardHat <i className="val">98%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="98"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "98%" }}
-                      ></div>
-                    </div>
-                  </div>
-                  <div className="progress">
-                    <span className="skill-detail">
-                      ERC/BEP-20, 721, 1155 <i className="val">99%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="99"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "99%" }}
-                      ></div>
-                    </div>
-                  </div>
+        
                 </div>
                 <div className="col-lg-3">
                   <div className="progress">
@@ -467,21 +364,7 @@ const SkillsDetail = ({ darkMode }) => {
                       ></div>
                     </div>
                   </div>
-                  <div className="progress">
-                    <span className="skill-detail">
-                      AWS & Azure DevOps <i className="val">98%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="98"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "98%" }}
-                      ></div>
-                    </div>
-                  </div>
+               
                   <div className="progress">
                     <span className="skill-detail">
                       Google Cloud <i className="val">93%</i>
@@ -494,21 +377,6 @@ const SkillsDetail = ({ darkMode }) => {
                         aria-valuemin="0"
                         aria-valuemax="100"
                         style={{ width: "93%" }}
-                      ></div>
-                    </div>
-                  </div>
-                  <div className="progress">
-                    <span className="skill-detail">
-                      Digital Ocean <i className="val">90%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="90"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "90%" }}
                       ></div>
                     </div>
                   </div>
