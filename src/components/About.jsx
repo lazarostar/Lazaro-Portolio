@@ -252,7 +252,7 @@ const About = ({ darkMode }) => {
                     </Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://discord.gg/ceQ3QZdm"
+                        href="https://discord.gg/ApYchg8Rrg"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
