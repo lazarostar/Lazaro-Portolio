@@ -1,4 +1,4 @@
-import { useState, React } from "react";
+import React from "react";
 import { Zoom, Fade } from "react-awesome-reveal";
 import botb from "../media/BOTB.png";
 import web3 from "../media/WEB3.png";
