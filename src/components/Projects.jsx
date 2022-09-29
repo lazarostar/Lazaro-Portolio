@@ -16,8 +16,6 @@ import Col from "react-bootstrap/esm/Col";
 import Card from "react-bootstrap/esm/Card";
 
 const Projects = ({ darkMode }) => {
-  const [show, setShow] = useState(false);
-
   return (
     <div data-theme={darkMode ? "dark" : "light"}>
       <div id="padding" style={{ padding: "35px" }}></div>
