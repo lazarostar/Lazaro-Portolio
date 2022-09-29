@@ -1,4 +1,4 @@
-import { useState, React } from "react";
+import React from "react";
 import { Zoom, Fade } from "react-awesome-reveal";
 import fla from "../media/FLA.png";
 import efe from "../media/EFE.png";
