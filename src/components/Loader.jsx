@@ -1,6 +1,5 @@
 import LoadingScreen from "react-loading-screen";
 import { Spinner } from "react-bootstrap";
-import loadingimg from "../media/loading.png";
 import avatar from "../media/logo.png";
 const Loader = () => {
   return (
