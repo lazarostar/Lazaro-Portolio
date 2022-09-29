@@ -19,6 +19,7 @@ const Home = ({ darkMode }) => {
             <br></br>
             <img
               src={avatar}
+              alt="avatar"
               width="250px"
               height="250px"
               className="rounded-circle"
