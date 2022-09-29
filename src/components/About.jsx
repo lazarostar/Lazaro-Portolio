@@ -7,8 +7,6 @@ import resume from "../media/resume.pdf";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
-  faLinkedin,
-  faSlack,
   faSkype,
   faTelegram,
   faGoogle,
