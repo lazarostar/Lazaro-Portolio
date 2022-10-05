@@ -8,6 +8,8 @@ const Footer = () => {
       <p className="footer-text">
         Made with ♥️ by KodaKDominus<br></br>
         <br></br>
+        <small>Phone number +1 541 418 0550</small>
+        <br></br>
         <small>All rights reserved © 2022 Koda Katsuro</small>
         <br></br>
       </p>
