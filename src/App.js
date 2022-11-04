@@ -75,18 +75,6 @@ function App() {
                       Contact
                     </Nav.Link>
                   </Nav>
-                  <Button
-                    onClick={toggleDarkMode}
-                    variant={darkMode ? "outline-light" : "outline-dark"}
-                  >
-                    {darkMode ? "Light Mode" : "Dark Mode"}{" "}
-                    <FontAwesomeIcon
-                      className="dark"
-                      size="lg"
-                      icon={faAdjust}
-                      spin
-                    />
-                  </Button>
                 </Navbar.Collapse>
               </Navbar>
               <hr></hr>
@@ -103,13 +91,12 @@ function App() {
               <div id="services">
                 <Services darkMode={darkMode} />
               </div>
-              <div id="cryptoprojects">
+              {/* <div id="cryptoprojects">
                 <CryptoProjects darkMode={darkMode} />
               </div>
-
               <div id="projects">
                 <Projects darkMode={darkMode} />
-              </div>
+              </div> */}
               <div id="contact">
                 <Contact darkMode={darkMode} />
               </div>

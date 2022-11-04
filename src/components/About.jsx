@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import { Fade } from "react-awesome-reveal";
 import "./styles.css";
@@ -97,21 +98,21 @@ const About = ({ darkMode }) => {
                   <br></br>
                   <Card.Text>
                     <p>
-                      I'm a Full Stack & Blockchain developer with 7+ years of
-                      web application development experience. I believe in
-                      client satisfaction. I need an opportunity to prove my
-                      skills. Just a talk and we can have a better understanding
-                      and can work together for a long time. I have also working
-                      experience with <strong>Model View Controller</strong>{" "}
-                      (MVC) and have been involved in maintaining versions of
-                      source code using <strong>GIT</strong>. I am up for
-                      challenges that take me by surprise and make my head hurt.
-                      I'm comfortable working on any domain if I find the
-                      project is worth it. You can imagine me focused on the
-                      laptop screen and typing or taking down notes. Apart from
-                      technical things, I enjoy good books and verses, and I
-                      have a good eye for <strong>Art</strong>. Now that you
-                      know me a bit, please feel free to drop a text because{" "}
+                      I'm a Full Stack Web3 developer with 6+ years of web
+                      application development experience. I need an opportunity
+                      to prove my skills. Just a talk and we can have a better
+                      understanding and can work together for a long time. I
+                      have also working experience with <strong>agile</strong>{" "}
+                      and <strong>SCRUM</strong> methodology and have been
+                      involved in maintaining versions of source code using{" "}
+                      <strong>GIT</strong>. I am up for challenges that take me
+                      by surprise and make my head hurt. I'm comfortable working
+                      on any domain if I find the project is worth it. You can
+                      imagine me focused on the laptop screen and typing or
+                      taking down notes. Apart from technical things, I enjoy
+                      good books and verses, and I have a good eye for{" "}
+                      <strong>Art</strong>. Now that you know me a bit, please
+                      feel free to drop a text because{" "}
                       <strong>Communication is a two-way street.</strong>
                     </p>
                   </Card.Text>
@@ -156,7 +157,7 @@ const About = ({ darkMode }) => {
                     <Col lg={1} xs={8}></Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="https://github.com/KodaKDominus"
+                        href="https://github.com/lazarostar"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -173,11 +174,7 @@ const About = ({ darkMode }) => {
                       </a>
                     </Col>
                     <Col lg={3} xs={8}>
-                      <a
-                        href="https://t.me/kodakatsuro"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
+                      <a href="#" target="_blank" rel="noreferrer noopener">
                         <Button
                           variant={darkMode ? "outline-light" : "outline-dark"}
                           className="skills-btn"
@@ -191,11 +188,7 @@ const About = ({ darkMode }) => {
                       </a>
                     </Col>
                     <Col lg={3} xs={8}>
-                      <a
-                        href="https://codepen.io/KodaKDominus"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
+                      <a href="#" target="_blank" rel="noreferrer noopener">
                         <Button
                           variant={darkMode ? "outline-light" : "outline-dark"}
                           className="skills-btn"
@@ -214,7 +207,7 @@ const About = ({ darkMode }) => {
                     <Col lg={1} xs={8}></Col>
                     <Col lg={3} xs={8}>
                       <a
-                        href="kodakatsuro@gmail.com"
+                        href="nascimento.dev26@gmail.com"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -231,11 +224,7 @@ const About = ({ darkMode }) => {
                       </a>
                     </Col>
                     <Col lg={3} xs={8}>
-                      <a
-                        href="https://join.skype.com/invite/wDpwy4t21eVg"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
+                      <a href="#" target="_blank" rel="noreferrer noopener">
                         <Button
                           variant={darkMode ? "outline-light" : "outline-dark"}
                           className="skills-btn"
@@ -249,11 +238,7 @@ const About = ({ darkMode }) => {
                       </a>
                     </Col>
                     <Col lg={3} xs={8}>
-                      <a
-                        href="https://discord.gg/ApYchg8Rrg"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
+                      <a href="#" target="_blank" rel="noreferrer noopener">
                         <Button
                           variant={darkMode ? "outline-light" : "outline-dark"}
                           className="skills-btn"

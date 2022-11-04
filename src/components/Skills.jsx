@@ -15,9 +15,10 @@ import {
   faHtml5,
   faJs,
   faAmazon,
-  faPhp,
   faReact,
   faPython,
+  faGithub,
+  faJava,
 } from "@fortawesome/free-brands-svg-icons";
 
 const Skills = ({ darkMode }) => {
@@ -97,9 +98,11 @@ const Skills = ({ darkMode }) => {
                   variant={darkMode ? "outline-light" : "outline-dark"}
                   className="skills-btn"
                 >
-                  <p align="center" className="skill-txt">
-                    C
-                  </p>
+                  <FontAwesomeIcon
+                    className="skill"
+                    size="2x"
+                    icon={faGithub}
+                  />
                 </Button>
                 <br />
                 <Button
@@ -135,7 +138,7 @@ const Skills = ({ darkMode }) => {
                   variant={darkMode ? "outline-light" : "outline-dark"}
                   className="skills-btn"
                 >
-                  <FontAwesomeIcon className="skill" size="2x" icon={faPhp} />
+                  <FontAwesomeIcon className="skill" size="2x" icon={faJava} />
                 </Button>
                 <br />
               </Card>
@@ -146,7 +149,7 @@ const Skills = ({ darkMode }) => {
                 <Card.Body>
                   <Card.Title>Programming Languages</Card.Title>
                   <Card.Text>
-                    Python, JavaScript, Go, C Programming, C++, PHP
+                    Python, JavaScript, Go, Java, PHP
                   </Card.Text>
                 </Card.Body>
               </Card>
@@ -155,8 +158,9 @@ const Skills = ({ darkMode }) => {
                   <Card.Title>Technologies</Card.Title>
                   <Card.Text>
                     HTML, CSS, Bootstrap, Natural Language Processing, ReactJs,
-                    NodeJs, VueJs, AngularJs Docker, Cloud Firestore,Python,
-                    Django, Django Rest Framework, Solnana, Solidity, Golang,
+                    NodeJs, VueJs, AngularJs Docker, Cloud Firestore, Python,
+                    Django, Django Rest Framework, Solana, Solidity, Golang,
+                    Java, Spring, Spring Boot, RabbitMQ, WebRTC, DevOps,
                     SQLite, AWS, Web3.js, Blockchain, ethereum, PostgreSQL,
                     Tailwind
                   </Card.Text>

@@ -6,10 +6,10 @@ const Loader = () => {
     <div>
       <LoadingScreen
         loading={true}
-        bgColor="#ff7777"
+        bgColor="#7c74e9"
         spinnerColor="#fff"
         textColor="#676767"
-        logoSrc={avatar}
+        // logoSrc={avatar}
       ></LoadingScreen>
       <Spinner animation="border" role="status">
         <span className="sr-only">Loading...</span>

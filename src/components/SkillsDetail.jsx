@@ -111,21 +111,6 @@ const SkillsDetail = ({ darkMode }) => {
                 <div className="col-lg-3">
                   <div className="progress">
                     <span className="skill-detail">
-                      Vue & Nuxtjs <i className="val">90%</i>
-                    </span>
-                    <div className="progress-bar-wrap">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="90"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "90%" }}
-                      ></div>
-                    </div>
-                  </div>
-                  <div className="progress">
-                    <span className="skill-detail">
                       Nodejs & Expressjs <i className="val">100%</i>
                     </span>
                     <div className="progress-bar-wrap">
@@ -138,8 +123,23 @@ const SkillsDetail = ({ darkMode }) => {
                         style={{ width: "100%" }}
                       ></div>
                     </div>
-                  </div>  
-                    <div className="progress">
+                  </div>
+                  <div className="progress">
+                    <span className="skill-detail">
+                      Spring & Spring Boot <i className="val">98%</i>
+                    </span>
+                    <div className="progress-bar-wrap">
+                      <div
+                        className="progress-bar"
+                        role="progressbar"
+                        aria-valuenow="98"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                        style={{ width: "98%" }}
+                      ></div>
+                    </div>
+                  </div>
+                  <div className="progress">
                     <span className="skill-detail">
                       AngularJS & Angular <i className="val">85%</i>
                     </span>
@@ -184,15 +184,27 @@ const SkillsDetail = ({ darkMode }) => {
                       ></div>
                     </div>
                   </div>
-
+                  <div className="progress">
+                    <span className="skill-detail">
+                      Dgraph & Neo4j <i className="val">95%</i>
+                    </span>
+                    <div className="progress-bar-wrap">
+                      <div
+                        className="progress-bar"
+                        role="progressbar"
+                        aria-valuenow="95"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                        style={{ width: "95%" }}
+                      ></div>
+                    </div>
+                  </div>
                 </div>
 
                 <div className="col-lg-3">
-  
-
                   <div className="progress">
                     <span className="skill-detail">
-                      Rust <i className="val">92%</i>
+                      RabbitMQ <i className="val">92%</i>
                     </span>
                     <div className="progress-bar-wrap">
                       <div
@@ -220,7 +232,7 @@ const SkillsDetail = ({ darkMode }) => {
                       ></div>
                     </div>
                   </div>
-           
+
                   <div className="progress">
                     <span className="skill-detail">
                       Solana <i className="val">96%</i>
@@ -251,7 +263,7 @@ const SkillsDetail = ({ darkMode }) => {
                       ></div>
                     </div>
                   </div>
-                
+
                   <div className="progress">
                     <span className="skill-detail">
                       MySQL & PostgreSQL <i className="val">98%</i>
@@ -329,10 +341,24 @@ const SkillsDetail = ({ darkMode }) => {
                       ></div>
                     </div>
                   </div>
-               
                   <div className="progress">
                     <span className="skill-detail">
                       Google Cloud <i className="val">93%</i>
+                    </span>
+                    <div className="progress-bar-wrap">
+                      <div
+                        className="progress-bar"
+                        role="progressbar"
+                        aria-valuenow="93"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                        style={{ width: "93%" }}
+                      ></div>
+                    </div>
+                  </div>
+                  <div className="progress">
+                    <span className="skill-detail">
+                      Firebase <i className="val">93%</i>
                     </span>
                     <div className="progress-bar-wrap">
                       <div

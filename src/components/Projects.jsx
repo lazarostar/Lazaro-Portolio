@@ -89,7 +89,7 @@ const Projects = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/KodaKDominus/weather_react_app"
+                      href="https://github.com/lazarostar/weather_react_app"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -164,7 +164,7 @@ const Projects = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/KodaKDominus/com_auction_project"
+                      href="https://github.com/lazarostar/com_auction_project"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -317,7 +317,7 @@ const Projects = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/KodaKDominus/euphorus_front"
+                      href="https://github.com/lazarostar/euphorus_front"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -386,7 +386,7 @@ const Projects = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/KodaKDominus/euphorus_back"
+                      href="https://github.com/lazarostar/euphorus_back"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -455,7 +455,7 @@ const Projects = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/KodaKDominus/dlop_ai_landing"
+                      href="https://github.com/lazarostar/dlop_ai_landing"
                       target="_blank"
                       rel="noreferrer noopener"
                     >

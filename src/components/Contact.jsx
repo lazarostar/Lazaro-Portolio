@@ -21,30 +21,30 @@ const Contact = ({ darkMode }) => {
 
   const onSubmit = async (e) => {
     e.preventDefault();
-    emailjs
-      .send(
-        "service_3rrlmf6",
-        "template_8cqo6bb",
-        templateParams,
-        "user_mNZI64CQWAWMujmZ1AWIk"
-      )
-      .then(
-        (response) => {
-          console.log("SUCCESS!", response.status, response.text);
-        },
-        (err) => {
-          console.log("FAILED...", err);
-        }
-      );
-    swal({
-      title: "Sent Successfully!",
-      text: "Glad to hear from you! I will get back to you as soon possible",
-      icon: "success",
-    });
-    setTemplateParams({
-      from_name: "",
-      message: "",
-    });
+    // emailjs
+    //   .send(
+    //     "service_3rrlmf6",
+    //     "template_8cqo6bb",
+    //     templateParams,
+    //     "user_mNZI64CQWAWMujmZ1AWIk"
+    //   )
+    //   .then(
+    //     (response) => {
+    //       console.log("SUCCESS!", response.status, response.text);
+    //     },
+    //     (err) => {
+    //       console.log("FAILED...", err);
+    //     }
+    //   );
+    // swal({
+    //   title: "Sent Successfully!",
+    //   text: "Glad to hear from you! I will get back to you as soon possible",
+    //   icon: "success",
+    // });
+    // setTemplateParams({
+    //   from_name: "",
+    //   message: "",
+    // });
   };
 
   return (

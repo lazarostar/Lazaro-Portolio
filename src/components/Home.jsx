@@ -22,29 +22,18 @@ const Home = ({ darkMode }) => {
               alt="avatar"
               width="250px"
               height="250px"
-              className="rounded-circle"
+              // className="rounded-circle"
             ></img>
           </Col>
           <Col lg={9} xs={12}>
             <h1 className="display-3 hello" align="center">
-              HELLO!<code> I'm Koda Katsuro</code>
+              <code> I'm Lazaro Nascimento</code>
             </h1>
-            {/* <h2 className="lead" align="center">
-              I
-              <span
-                class="txt-rotate"
-                data-period="2000"
-                data-rotate='[ " am a Full-Stack & Blockchain Developer.", " can work with NLP.", " love designing.", " am working on Problem Solving.", " am a learner for life!" ]'
-              ></span>
-            </h2> */}
             <h2 className="lead" align="center">
-              I'm a Full-stack & Blockchain Developer.
+              I'm a Full-stack Web3 Developer.
             </h2>
             <h5 className="lead-sub" align="center">
               I have good sensitive in Web Design.
-            </h5>
-            <h5 align="center">
-              私の見方では、虹が欲しければ、雨を我慢しなければなりません。
             </h5>
           </Col>
         </Row>

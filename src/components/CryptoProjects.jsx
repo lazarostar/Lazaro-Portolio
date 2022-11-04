@@ -273,7 +273,7 @@ const CryptoProjects = ({ darkMode }) => {
                       </Button>
                     </a>
                     <a
-                      href="https://github.com/KodaKDominus/web3_crypto"
+                      href="https://github.com/lazarostar/web3_crypto"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
@@ -350,134 +350,6 @@ const CryptoProjects = ({ darkMode }) => {
                 </Card>
               </Col>
 
-              <Col lg={4} sm={12}>
-                <Card
-                  align="center"
-                  className="exp"
-                  data-theme={darkMode ? "dark" : "light"}
-                >
-                  <br></br>
-                  <center>
-                    <div class="flip-card">
-                      <div class="flip-card-inner">
-                        <div className="flip-card-front">
-                          <Card.Img
-                            variant="top"
-                            src={nja}
-                            style={{ width: "270", marginBottom: "20px" }}
-                          />
-                          <Card.Body>
-                            <Card.Title align="center">
-                              Ninja Champions
-                            </Card.Title>
-                            <Card.Text>
-                              <p align="center">
-                                Ninja Champions are ready for NFT and metaverse.
-                                All Ninjas have unique traits and leveled
-                                ranking.
-                              </p>
-                            </Card.Text>
-                          </Card.Body>
-                        </div>
-                        <div className="flip-card-back">
-                          <p>
-                            🖋️ Worked as a blockchain developer.
-                            <br />
-                            🖋️ Supported front-end part.
-                            <br />
-                            🖋️ Implemented generating 10K images randomly with
-                            given some artassets using blender and python.
-                            <br />
-                            🖋️ Integrated with OpenSea using IPFS, All the
-                            metadata wasuploaded to IPFS.
-                            <br />
-                            🖋️ Added presale, public sale and reveal functions
-                            to smart contractswritten using solidity
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </center>
-                  <br></br>
-                  <div>
-                    <a
-                      href="https://ninjachampions.com/"
-                      target="_blank"
-                      rel="noreferrer noopener"
-                    >
-                      <Button
-                        variant={darkMode ? "outline-light" : "outline-dark"}
-                        className="sbtn"
-                      >
-                        View Project
-                      </Button>
-                    </a>
-                  </div>
-                  <br></br>
-                </Card>
-              </Col>
-            </Row>
-          </Zoom>
-          <br></br>
-          <br></br>
-          <Zoom>
-            <Row>
-              <Col lg={4} sm={12}>
-                <Card
-                  align="center"
-                  className="exp"
-                  data-theme={darkMode ? "dark" : "light"}
-                >
-                  <br></br>
-                  <center>
-                    <div class="flip-card">
-                      <div class="flip-card-inner">
-                        <div className="flip-card-front">
-                          <Card.Img
-                            variant="top"
-                            src={sma}
-                            style={{ width: "270", marginBottom: "20px" }}
-                          />
-                          <Card.Body>
-                            <Card.Title align="center">Smaugs</Card.Title>
-                            <Card.Text>
-                              <p align="center">
-                                Digital marketplace for crypto collectibles and
-                                non-fungible tokens. Buy, sell, and discover
-                                exclusive digital assets.
-                              </p>
-                            </Card.Text>
-                          </Card.Body>
-                        </div>
-                        <div className="flip-card-back">
-                          <p>
-                            🖋️ Create your unique NFT very easy Create your own
-                            NFT token in a minute. Smaugs Marketplace is a
-                            complete custom DeFi, governance, and NFT ecosystem
-                            + marketplace.
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </center>
-                  <br></br>
-                  <div>
-                    <a
-                      href="https://nft.smaugs.com/"
-                      target="_blank"
-                      rel="noreferrer noopener"
-                    >
-                      <Button
-                        variant={darkMode ? "outline-light" : "outline-dark"}
-                        className="sbtn"
-                      >
-                        View Project
-                      </Button>
-                    </a>
-                  </div>
-                  <br></br>
-                </Card>
-              </Col>
               <Col lg={4} sm={12}>
                 <Card
                   align="center"
